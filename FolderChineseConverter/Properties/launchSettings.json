@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FolderChineseConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\abby\\Desktop\\xanga blog archive\""
+    }
+  }
+}
